@@ -1,16 +1,69 @@
-### Hi there 👋
+<img src="https://github.com/matosmarcio10/matosmarcio10/blob/master/img/matos.svg" width="230px" align="right" alt="Developer">
+ 
+<p align="left"> 
+ 🌎 <em>Hello there, my name is Márcio and i'm </em> <strong>Web Developer.</strong>
+</p>
 
-<!--
-**matosmarcio10/matosmarcio10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+ 🧬 Soft Skills: <strong> I am self-taught, proactive, teamworker. </strong>
+</p>
+ 
+<p align="left">
+ ⚡ Hard Skills: <strong>HTML5, CSS3, Angular, Bootstrap, Javascript. </strong> 
+</p> 
 
-Here are some ideas to get you started:
+<p align="left">
+ 📚 Studying: <strong>ReactJS, React Native, <br> Typescript, Styled Components, NodeJS, UX.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+ 🖥️ Tools: <strong>Git, GitHub, VSCode. </strong> 
+</p> 
+ 
+<p align="left">
+ 💼 Works: <strong>Today work as a Freelancer.</strong>
+</p>
+ 
+<p align="left">
+ 📧 <strong>You can find me here:</strong> ⤵️
+</p>
+
+<div>
+ 
+<p align="left">
+  <a href="https://mail.google.com/mail/u/?authuser=marciomatos1096@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=0061C3" /></a>
+ 
+  <a href="https://www.linkedin.com/in/márcio-matos-b7945215b/" alt="Linkedin">
+   <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0061C3"></a>
+   
+</p>
+ 
+</div>
+
+
+<br />
+<br />
+<br /> 
+<br /> 
+<br />
+
+
+
+<p align="center" >
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matosmarcio10&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"  />
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=matosmarcio10&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="matosmarcio10" />
+</p>
+
+
+<img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/mario.gif"/>
+  
+ ![Snake animation](https://github.com/matosmarcio10/matosmarcio10/blob/output/github-contribution-grid-snake.svg)
+  
+<div align="center">
+<p>Total de visitas no perfil:</p>
+<p>
+    <img src="https://profile-counter.glitch.me/matosmarcio10/count.svg"/>
+</p>
+</div>
