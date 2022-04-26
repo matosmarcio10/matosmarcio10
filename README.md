@@ -1,4 +1,3 @@
-<img src="https://github.com/matosmarcio10/matosmarcio10/blob/master/img/matos.svg" width="230px" align="right" alt="Developer">
  
 <p align="left"> 
  🌎 <em>Hello there, my name is Márcio and i'm </em> <strong>Web Developer.</strong>
