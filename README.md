@@ -1,45 +1,42 @@
  
-<p align="left"> 
+<p align="center"> 
  🌎 <em>Hello there, my name is Márcio and i'm </em> <strong>Web Developer.</strong>
 </p>
 
-<p align="left">
+<p align="center">
  🧬 Soft Skills: <strong> I am self-taught, proactive, teamworker. </strong>
 </p>
  
-<p align="left">
+<p align="center">
  ⚡ Hard Skills: <strong>HTML5, CSS3, Angular, Bootstrap, Javascript. </strong> 
 </p> 
 
-<p align="left">
+<p align="center">
  📚 Studying: <strong>ReactJS, React Native, <br> Typescript, Styled Components, NodeJS, UX.</strong>
 </p>
 
-<p align="left">
+<p align="center">
  🖥️ Tools: <strong>Git, GitHub, VSCode. </strong> 
 </p> 
  
-<p align="left">
+<p align="center">
  💼 Works: <strong>Today work as a Freelancer.</strong>
 </p>
  
-<p align="left">
+<p align="center">
  📧 <strong>You can find me here:</strong> ⤵️
 </p>
 
 <div>
  
-<p align="left">
+<p align="center">
   <a href="https://mail.google.com/mail/u/?authuser=marciomatos1096@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=0061C3" /></a>
  
   <a href="https://www.linkedin.com/in/márcio-matos-b7945215b/" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0061C3"></a>
-   
-</p>
- 
+ </p>
 </div>
-
 
 <br />
 <br />
