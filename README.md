@@ -53,7 +53,6 @@
 </p>
 
 
-<img src="https://github.com/pamellafernandes/pamellafernandes/blob/master/img/mario.gif"/>
   
  ![Snake animation](https://github.com/matosmarcio10/matosmarcio10/blob/output/github-contribution-grid-snake.svg)
   
