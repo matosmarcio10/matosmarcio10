@@ -35,6 +35,11 @@
  
   <a href="https://www.linkedin.com/in/márcio-matos-b7945215b/" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=0061C3"></a>
+ 
+ 
+ <a href="https://www.instagram.com/in/matos_marcio10/" alt="Instagram">
+   <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=0061C3"></a>
+ 
  </p>
 </div>
 
