@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
- 🧬 Soft Skills: <strong> I am self-taught, proactive, teamworker. </strong>
+ 🧬 Soft Skills: <strong> I am self-taught, proactive, team worker. </strong>
 </p>
  
 <p align="center">
