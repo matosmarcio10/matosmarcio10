@@ -20,7 +20,7 @@
 </p> 
  
 <p align="center">
- 💼 Works: <strong>Today work as a Freelancer.</strong>
+ 💼 Works: <strong>Today I'm looking for a job.</strong>
 </p>
  
 <p align="center">
